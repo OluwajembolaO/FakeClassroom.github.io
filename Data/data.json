@@ -1,0 +1,84 @@
+{
+    "Students": [
+        {
+            "StudentName": "Sudiptto",
+            "Height": {
+                "Feet": 6,
+                "Inches": 4
+            },
+            "Weight": 300,
+            "Age": 19,
+            "Grade": 14
+        },
+        {
+            "StudentName": "Aisha",
+            "Height": {
+                "Feet": 5,
+                "Inches": 7
+            },
+            "Weight": 140,
+            "Age": 18,
+            "Grade": 12
+        },
+        {
+            "StudentName": "John",
+            "Height": {
+                "Feet": 5,
+                "Inches": 10
+            },
+            "Weight": 180,
+            "Age": 20,
+            "Grade": 15
+        },
+        {
+            "StudentName": "Maria",
+            "Height": {
+                "Feet": 5,
+                "Inches": 5
+            },
+            "Weight": 130,
+            "Age": 17,
+            "Grade": 11
+        },
+        {
+            "StudentName": "Ahmed",
+            "Height": {
+                "Feet": 6,
+                "Inches": 0
+            },
+            "Weight": 190,
+            "Age": 21,
+            "Grade": 16
+        },
+        {
+            "StudentName": "Li",
+            "Height": {
+                "Feet": 5,
+                "Inches": 8
+            },
+            "Weight": 160,
+            "Age": 19,
+            "Grade": 13
+        },
+        {
+            "StudentName": "Nina",
+            "Height": {
+                "Feet": 5,
+                "Inches": 6
+            },
+            "Weight": 120,
+            "Age": 18,
+            "Grade": 12
+        },
+        {
+            "StudentName": "Carlos",
+            "Height": {
+                "Feet": 6,
+                "Inches": 2
+            },
+            "Weight": 210,
+            "Age": 22,
+            "Grade": 17
+        }
+    ]
+}

@@ -79,6 +79,16 @@
             "Weight": 210,
             "Age": 22,
             "Grade": 17
+        },
+        {
+            "StudentName": "Oluwajembola",
+            "Height": {
+                "Feet": 5,
+                "Inches": 9
+            },
+            "Weight": 159,
+            "Age": 17,
+            "Grade": 11
         }
     ]
 }
